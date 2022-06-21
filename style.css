@@ -1,0 +1,395 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+header{
+    width: 100%;
+    height: 70px;
+    background: #212529;
+    display: flex;
+}
+.head1{
+    width: 25%;
+    height: 100%;
+    background: url(/project2/images/brand-logo.svg);
+    background-repeat: no-repeat;
+    background-size: 180px;
+    cursor: pointer;
+    background-position-x: right;
+    margin-top: 10px;
+    
+    
+}
+.head2{
+    width: 40%;
+    height: 100%;
+}
+.serach{
+    width: 350px;
+    height: 55px;
+    margin-top: 5px;
+   background: #fff;
+    margin-left: 70px;
+    margin-right: 0px;
+    display: flex;
+}
+button[type=submit]{
+    width: 50px;
+    height: 56px;
+    margin: 0px;
+    padding: 0px;
+    background: transparent url(/project2/images/magnifying-glass.png) no-repeat ;
+    opacity: 0.7;
+    background-size: 30px;
+    background-position-y: center;
+    border-left: none;
+}
+button[type=submit]:hover{
+       opacity: 2;
+}
+.head3{
+    width: 5%;
+    height: 100%;
+    margin-left: 220px;
+     background: url(/project2/images/11-Headphone-512.webp);
+     background-size: 40px;
+     background-repeat: no-repeat;
+     background-position: 15%;
+}
+.spr{
+    color: #fff;
+    padding-top: 40px;
+    padding-left: 10px;
+    font-size: 12px;
+}
+.header1{
+    width: 100%;
+    height: 40px;
+    background: #fff;
+}
+.fronttext{
+    width: 55%;
+    height: 100%;
+    margin-left: 300px;
+
+}
+.ftext{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    color:#212529;
+    
+}
+section{
+    width: 100%;
+    height: 630px;
+    background: url(/project2/images/parker_collection_queen_jubilee_hero-image_desktop\ \(1\).jpg);
+    background-size: 1500px;
+    background-position-y:center ;
+}
+.txtinner-sec{
+    width: 520px;
+    height: 320px;
+    margin-left: 220px;
+    padding-top: 180px;
+}
+.dot{
+    height: 10px;
+    width: 10px;
+    border: 1px solid #fff;
+    border-radius: 50%;
+    display: inline-block;
+}
+.dot1{
+    height: 10px;
+    width: 10px;
+    border: 1px solid #fff;
+    background-color: #fff;
+    border-radius: 50%;
+    display: inline-block;
+}
+.imgtxt1{
+    width: 95%;
+    height: 550px;
+   margin-top: 40px;
+   margin-left: 40px; 
+   display: flex;
+}
+.img1{
+    width: 50%;
+    height: 100%;
+    background: url(/project2/images/2-Parker-Browse-by-Collection-Desktop-Tablet-Homepage-50-50.jpg);
+    background-size: 700px;
+    background-position: center;
+}
+.txt1{
+    width: 50%;
+    height: 100%; 
+     border-top: 1px solid palegreen;
+     border-right: 1px solid palegreen;
+     border-bottom: 1px solid palegreen;
+     
+}
+.txtinner{
+    width: 350px;
+    height: 220px;
+    margin-top: 150px;
+    margin-left: 200px;
+}
+.headline{
+    font-size: 36px;
+    font-weight: 500;
+    font-family: gotham, sans-serif;
+    margin-bottom: 10px;
+}
+.para{
+    font-size: 16px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    font-family: roboto-regular,sans-serif;
+    text-align: left;
+
+}
+.button{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(59, 60, 67);
+   border: 0px;
+    font-size: 16px;
+    color: #fff;
+}
+.imgtxt2{
+    width: 95%;
+    height: 550px;
+    margin-top: 20px;
+    margin-left: 40px; 
+    display: flex;
+}
+.img2{
+    width: 50%;
+    height: 100%;
+    background: url(/project2/images/parker_homepage_50-50_jotter-originals_desktop.jpg);
+    background-size: 730px;
+    background-position-y:center ;
+   
+}
+.txt2{
+    width: 50%;
+    height: 100%;
+    border-top: 1px solid palegreen;
+     border-left: 1px solid palegreen;
+     border-bottom: 1px solid palegreen;
+}
+.imgtxt3{
+    width: 95%;
+    height: 550px;
+    margin-top: 20px;
+    margin-left: 40px; 
+    display: flex;
+}
+.img3{
+    width: 50%;
+    height: 100%;
+    background: url(/project2/images/parker_homepage_50-50_writting-type_mobile.jpg);
+    background-size: 990px;
+    background-position-x:center ;
+}
+.txt3{
+    width: 50%;
+    height: 100%;
+    border-top: 1px solid palegreen;
+     border-right: 1px solid palegreen;
+     border-bottom: 1px solid palegreen;
+}
+.bottomimg1{
+    width: 100%;
+    height: 500px;
+     margin-top: 18px;
+    background-size: 1600px;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/project2/images/parker_homepage_fs-hero_world-of-parker_desktop.jpg);
+}
+.txtinner1{
+    width: 520px;
+    height: 320px;
+    margin-left: 220px;
+    padding-top: 80px;
+}
+.headline1{
+    font-size: 48px;
+    font-weight: 500;
+    font-family: gotham, sans-serif;
+    margin-bottom: 10px;
+    color: #fff;
+}
+.para1{
+    font-size:20px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    font-family: roboto-regular,sans-serif;
+    text-align: left;
+    color: #fff;
+
+}
+.button1{
+    width: 150px;
+    height: 50px;
+    background-color: #fff;
+   border: 0px;
+    font-size: 16px;
+    color:black;
+}
+.bottomimg2{
+    width: 100%;
+    height: 500px;
+    margin-top: 18px;
+    background-size: 1600px;
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/project2/images/parker_homepage_fs-hero_parker-craftsmanship_desktop.jpg);
+}
+.btmtxt1{
+    width: 100%;
+    height: 300px;
+    padding-top: 20px;
+    border-bottom: 1px solid powderblue;
+}
+.btmtxt{
+    width: 50%;
+    height: 70%;
+    margin-left: 400px;
+    text-align: center;
+    font-family: roboto-regular,sans-serif;
+}
+.mybtn{
+    font-size: 16px;
+    margin-left: 750px;
+    margin-top: 10px;
+    background-color: #fff;
+    border: 0px;
+    color: #3b3c43;
+}
+.mybtn:hover{
+  text-decoration: underline;
+}
+.footer1{
+    width: 100%;
+    height: 180px;
+     border-top: 1px solid rgb(221, 222, 222);
+     border-bottom: 1px solid rgb(207, 220, 222);
+     display: flex;
+}
+.footinner1{
+    width: 36%;
+    height: 80%;
+    margin-top: 20px;
+    margin-left: 220px;
+
+}
+.ftin{
+    width: 100%;
+    height: 55px;
+    display: flex;
+}
+.email{
+    width: 247px;
+    height: 55px;
+}
+.sign{
+    width: 100px;
+    height: 55px;
+}
+
+.signup{
+    width: 100px;
+    height: 55px;
+    background: black;
+    color: #fff;  
+}
+.privacytxt{
+    margin-top: 5px;
+    font-size: 12px;
+    font-family: roboto-regular,sans-serif;
+}
+.prytxt{
+    width: 350px;
+    height: 70px;  
+}
+cite{
+    font-style: normal;
+    text-decoration: underline;
+}
+.info:hover{
+   color:#fff;
+   background: black;
+}
+.footinner2{
+    width: 36%;
+    height: 80%;
+    margin-top: 20px;
+}
+.smedia{
+    list-style: none;
+    display: flex;
+    justify-content: end;
+}
+
+.footer2{
+    width: 100%;
+    height: 325px;
+    border-top:1px solid rgb(207, 220, 222) ;
+    border-bottom: 1px solid rgb(207, 220, 222);
+}
+.footertext{
+    width: 60%;
+    height: 70%;
+    margin-left: 200px;
+    padding-top: 40px;
+    display: flex;
+}
+.footertext1{
+    width: 30%;
+    height: 100%;
+}
+.footertext2{
+    width: 30%;
+    height: 100%;
+}
+.list{
+    list-style: none;
+    font-size: 12px;
+    font-family: roboto-regular,sans-serif;
+    font-weight: 400;
+    line-height: 20px;
+}
+.para2{
+    margin-left: 35px;
+}
+.footertext3{
+    width: 35%;
+    height: 100%;
+}
+.footer3{
+    width: 100%;
+    height: 80px;
+    margin-top: 8px;
+    border-top:1px solid rgb(207, 220, 222) ;
+    display: flex;
+}
+.lastlogo{
+    width: 20%;
+    height: 100%;
+    background: url(/project2/images/brand-logo-footer.svg);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: 20px;
+}   
+.lasttxt{
+    width: 60%;
+    height: 100%;
+}
+.us{
+    width: 20%;
+    height: 100%;
+    background: url(/project2/images/US.webp);
+    background-repeat: no-repeat;
+    background-size: 30px;
+    background-position-y: center;
+}
