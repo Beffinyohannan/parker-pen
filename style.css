@@ -11,14 +11,12 @@ header{
 .head1{
     width: 25%;
     height: 100%;
-    background: url(/project2/images/brand-logo.svg);
+    background: url(images/brand-logo.svg);
     background-repeat: no-repeat;
     background-size: 180px;
     cursor: pointer;
     background-position-x: right;
-    margin-top: 10px;
-    
-    
+    margin-top: 10px;  
 }
 .head2{
     width: 40%;
@@ -38,7 +36,7 @@ button[type=submit]{
     height: 56px;
     margin: 0px;
     padding: 0px;
-    background: transparent url(/project2/images/magnifying-glass.png) no-repeat ;
+    background: transparent url(images/magnifying-glass.png) no-repeat ;
     opacity: 0.7;
     background-size: 30px;
     background-position-y: center;
@@ -51,7 +49,7 @@ button[type=submit]:hover{
     width: 5%;
     height: 100%;
     margin-left: 220px;
-     background: url(/project2/images/11-Headphone-512.webp);
+     background: url(images/11-Headphone-512.webp);
      background-size: 40px;
      background-repeat: no-repeat;
      background-position: 15%;
@@ -83,7 +81,7 @@ button[type=submit]:hover{
 section{
     width: 100%;
     height: 630px;
-    background: url(/project2/images/parker_collection_queen_jubilee_hero-image_desktop\ \(1\).jpg);
+    background: url(images/parker_collection_queen_jubilee_hero-image_desktop\ \(1\).jpg);
     background-size: 1500px;
     background-position-y:center ;
 }
@@ -118,7 +116,7 @@ section{
 .img1{
     width: 50%;
     height: 100%;
-    background: url(/project2/images/2-Parker-Browse-by-Collection-Desktop-Tablet-Homepage-50-50.jpg);
+    background: url(images/2-Parker-Browse-by-Collection-Desktop-Tablet-Homepage-50-50.jpg);
     background-size: 700px;
     background-position: center;
 }
@@ -168,7 +166,7 @@ section{
 .img2{
     width: 50%;
     height: 100%;
-    background: url(/project2/images/parker_homepage_50-50_jotter-originals_desktop.jpg);
+    background: url(images/parker_homepage_50-50_jotter-originals_desktop.jpg);
     background-size: 730px;
     background-position-y:center ;
    
@@ -190,7 +188,7 @@ section{
 .img3{
     width: 50%;
     height: 100%;
-    background: url(/project2/images/parker_homepage_50-50_writting-type_mobile.jpg);
+    background: url(images/parker_homepage_50-50_writting-type_mobile.jpg);
     background-size: 990px;
     background-position-x:center ;
 }
@@ -206,7 +204,7 @@ section{
     height: 500px;
      margin-top: 18px;
     background-size: 1600px;
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/project2/images/parker_homepage_fs-hero_world-of-parker_desktop.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/parker_homepage_fs-hero_world-of-parker_desktop.jpg);
 }
 .txtinner1{
     width: 520px;
@@ -243,7 +241,7 @@ section{
     height: 500px;
     margin-top: 18px;
     background-size: 1600px;
-    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(/project2/images/parker_homepage_fs-hero_parker-craftsmanship_desktop.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url(images/parker_homepage_fs-hero_parker-craftsmanship_desktop.jpg);
 }
 .btmtxt1{
     width: 100%;
@@ -376,7 +374,7 @@ cite{
 .lastlogo{
     width: 20%;
     height: 100%;
-    background: url(/project2/images/brand-logo-footer.svg);
+    background: url(images/brand-logo-footer.svg);
     background-repeat: no-repeat;
     background-position-x: right;
     background-position-y: 20px;
@@ -388,7 +386,7 @@ cite{
 .us{
     width: 20%;
     height: 100%;
-    background: url(/project2/images/US.webp);
+    background: url(images/US.webp);
     background-repeat: no-repeat;
     background-size: 30px;
     background-position-y: center;
